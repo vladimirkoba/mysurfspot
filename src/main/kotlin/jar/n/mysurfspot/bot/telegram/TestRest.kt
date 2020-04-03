@@ -24,5 +24,6 @@ class TestRest(private val client: ForecastClient) {
     }
 
     // some change
+    //new kom!
     // some kom2
 }
