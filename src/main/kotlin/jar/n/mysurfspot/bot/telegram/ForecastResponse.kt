@@ -1,5 +1,5 @@
 package jar.n.mysurfspot.bot.telegram
 
-interface ForecastResponse {
+import com.example.Forecast
 
-}
+data class ForecastResponse (val forecasts: List<Forecast>)

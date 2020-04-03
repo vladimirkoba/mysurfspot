@@ -1,9 +1,10 @@
+/*
 package jar.n.mysurfspot.bot.telegram
 
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 
-@Service
+//@Service
 class MessageHandlerImpl(
         private val forecastClient: ForecastClient
 ) : MessageHandler {
@@ -30,4 +31,4 @@ class MessageHandlerImpl(
         return "hi"
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
-}
+}*/

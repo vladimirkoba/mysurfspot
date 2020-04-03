@@ -10,7 +10,7 @@ import org.telegram.telegrambots.meta.api.methods.send.SendMessage
 import org.telegram.telegrambots.meta.api.objects.Update
 
 
-@Service
+//@Service
 class ForecastBot(
         options: DefaultBotOptions,
         private val handler: MessageHandler
